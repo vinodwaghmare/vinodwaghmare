@@ -139,5 +139,3 @@ Real-time patient monitoring system with anomaly detection and risk assessment.
 
 ---
 
-## Goal
-Become financially independent by building scalable tech products
