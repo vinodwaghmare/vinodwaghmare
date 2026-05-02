@@ -26,14 +26,14 @@
 
 
 
-## 🚀 Projects – Showcase
+##  Projects – Showcase
 
 <table>
 <tr>
 
 <td width="33%" valign="top">
 
-### 🧠 MemGenX  
+###  MemGenX  
 Unified memory layer for LLMs, agents, and AI apps to store, retrieve, and reuse context efficiently.
 
 **Tools & Tech:** Next.js, TypeScript, Python, MCP, RAG, Agents, LLMs  
@@ -44,7 +44,7 @@ Unified memory layer for LLMs, agents, and AI apps to store, retrieve, and reuse
 
 <td width="33%" valign="top">
 
-### 📊 TrendRadar  
+###  TrendRadar  
 Captures and analyzes trends from X (Twitter) & Reddit to identify SaaS product opportunities.
 
 **Tools & Tech:** Next.js, TypeScript, Python  
@@ -55,7 +55,7 @@ Captures and analyzes trends from X (Twitter) & Reddit to identify SaaS product 
 
 <td width="33%" valign="top">
 
-### 🎙️ Askio  
+###  Askio  
 Voice-driven RAG application enabling dynamic query handling with real-time AI responses.
 
 **Tools & Tech:** Next.js, TypeScript, Python, FastAPI, GCP (GCS, Vertex AI, Cloud Run), RAG, Agents  
