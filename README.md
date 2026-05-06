@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Vinod</h1>
-<h3 align="center"> Data Engineer | Data & AI Enthusiast</h3>
+<h3 align="center"> Data Engineer | Data & AI Enthusiast </h3>
 
 ---
 
